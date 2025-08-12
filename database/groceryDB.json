@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "id": "d1d57939-d3ea-431e-96d9-2045ce6be1a7",
+    "storeName": "nameOfStore",
+    "goods": "nameOfGoods",
+    "unitPrice": "1000.00",
+    "quantity": "7packs",
+    "totalPrice": "7000.00",
+    "isAvailable": true
+  },
+  {
+    "id": "d7a058db-deae-47a0-aa9c-118ba1e87bbc",
+    "storeName": "nameOfStore",
+    "goods": "nameOfGoods",
+    "unitPrice": "1000.00",
+    "quantity": "7packs",
+    "totalPrice": "7000.00",
+    "isAvailable": true
+  },
+  {
+    "id": "8ef97826-c7d8-465f-a5fd-ff3991fdbcc4",
+    "storeName": "nameOfStore",
+    "goods": "nameOfGoods",
+    "unitPrice": "1000.00",
+    "quantity": "9packs",
+    "totalPrice": "9000.00",
+    "isAvailable": true
+  }
+]
